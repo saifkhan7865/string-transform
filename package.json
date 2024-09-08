@@ -1,5 +1,5 @@
 {
-  "name": "string-transform",
+  "name": "string-transform-text",
   "version": "1.0.0",
   "description": "a string transformer package",
   "main": "index.js",

@@ -4,7 +4,8 @@ function toTitleCase(str) {
     .split(" ") // ["saif", "khan"]
     .map((word) => {
       return word.charAt(0).toUpperCase() + word.slice(1); // Saif Khan
-    });
+    })
+    .join(" "); // Saif Khan
 }
 
 function ToSnakeCase(str) {
